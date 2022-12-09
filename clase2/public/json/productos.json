@@ -1,0 +1,72 @@
+[
+    {
+       "idCategoria": 1,
+        "modelo": "Salud",
+        "nombre": "Auxiliar de Enfermería",
+        "marca": "6 meses",
+        "precio": 3000,
+        "id": 1,
+        "img": "../img/enfer.jpg",
+        "stock": 10
+    },
+    {
+        "idCategoria": 1,
+        "modelo": "Salud",
+        "nombre": "Auxiliar de Farmacia",
+        "marca": "6 meses",
+        "precio": 3000,
+        "id": 2,
+        "img": "../img/Far.jpg",
+        "Stock": 20
+    },
+    {
+        "idCategoria": 1,
+        "tipo": "Salud",
+        "nombre": "Acompañante Terapéutico",
+        "marca": "6 meses",
+        "precio": 3000,
+        "id": 3,
+        "img": "../img/AT.jpg",
+        "Stock": 15
+    },
+    {
+        "idCategoria": 2,
+        "tipo": "Idioma",
+        "nombre": "Inglés",
+        "marca": "4 años",
+        "precio": 3000,
+        "id": 4,
+        "img": "../img/ingles.jpg",
+        "Stock": 20
+    },
+    {
+        "idCategoria": 2,
+        "tipo": "Idioma",
+        "nombre": "Portugués",
+        "marca": "4 años",
+        "precio": 3000,
+        "id": 5,
+        "img": "../img/Port.jpg",
+        "Stock": 20
+    },
+    {
+        "idCategoria": 3,
+        "tipo": "computación",
+        "nombre": "Operador de Pc",
+        "marca": "6 meses",
+        "precio": 3000,
+        "id": 6,
+        "img": "../img/PC.jpg",
+        "Stock": 11
+    },
+    {
+        "idCategoria": 3,
+        "tipo": "computación",
+        "nombre": "Diseño Gráfico",
+        "marca": "6 meses",
+        "precio": 3000,
+        "id": 7,
+        "img": "../img/DG.jpg",
+        "Stock": 8
+    }
+]
